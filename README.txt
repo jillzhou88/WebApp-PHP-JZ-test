@@ -1,9 +1,9 @@
 -------
 
-This is a business website, showing basic functions with php as server programming language.
+This is a business website, showing basic functions
+Server Programming Language: PHP
 Database: MySQL
-IDE:NetBeans
-Server: Apache
+Web Server: Apache
 
 Database is not uoloaded
 
