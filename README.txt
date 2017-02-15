@@ -1,6 +1,11 @@
 -------
 
 This is a business website, showing basic functions with php as server programming language.
+Database: MySQL
+IDE:NetBeans
+Server: Apache
+
+Database is not uoloaded
 
 -------
 This is beta version.
